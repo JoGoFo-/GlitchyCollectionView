@@ -13,6 +13,7 @@
 		9B759C4A28E18180009778DE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B759C4828E18180009778DE /* Main.storyboard */; };
 		9B759C4C28E18183009778DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B759C4B28E18183009778DE /* Assets.xcassets */; };
 		9B759C4F28E18183009778DE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B759C4D28E18183009778DE /* LaunchScreen.storyboard */; };
+		9B759C5728E18195009778DE /* ScrollingCardCollectionViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B759C5628E18195009778DE /* ScrollingCardCollectionViewLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9B759C4B28E18183009778DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B759C4E28E18183009778DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9B759C5028E18183009778DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B759C5628E18195009778DE /* ScrollingCardCollectionViewLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollingCardCollectionViewLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				9B759C4228E18180009778DE /* AppDelegate.swift */,
 				9B759C4428E18180009778DE /* SceneDelegate.swift */,
 				9B759C4628E18180009778DE /* ViewController.swift */,
+				9B759C5628E18195009778DE /* ScrollingCardCollectionViewLayout.swift */,
 				9B759C4828E18180009778DE /* Main.storyboard */,
 				9B759C4B28E18183009778DE /* Assets.xcassets */,
 				9B759C4D28E18183009778DE /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				9B759C4728E18180009778DE /* ViewController.swift in Sources */,
 				9B759C4328E18180009778DE /* AppDelegate.swift in Sources */,
+				9B759C5728E18195009778DE /* ScrollingCardCollectionViewLayout.swift in Sources */,
 				9B759C4528E18180009778DE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
